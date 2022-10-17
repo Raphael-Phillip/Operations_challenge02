@@ -2,7 +2,7 @@
 ### Second challenge given by Rocketseat using javaScript<h3>
 <br/>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/114286800/193920156-1029f962-6d6b-4502-b136-5693e6f2eafc.png" width="900px" />
+<img src="https://user-images.githubusercontent.com/114286800/196292527-1754bb13-a7ec-4e94-8134-c367989d53cf.png" />
 </div>
 <br/>
 <br/>
